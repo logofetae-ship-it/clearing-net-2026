@@ -14,6 +14,7 @@
 ## University Clearing hotlines (this shortlist)
 | University | Clearing phone | International line | When | Clearing page |
 |---|---|---|---|---|
+| **UCL** | +44 (0)20 8059 0939 | — | Mon–Fri 09:00–17:00 UK | https://www.ucl.ac.uk/study/prospective-students/undergraduate/clearing |
 | **KCL** | +44 (0)20 3858 1050 | — | from 08:00 BST on results day | https://www.kcl.ac.uk/study/undergraduate/clearing |
 | **SOAS** | 020 3912 6580 | — | lines open 08:00 BST on results day | https://www.soas.ac.uk/clearing-soas |
 | **QMUL** | +44 (0)20 7882 5555 | +44 (0)20 3053 0793 | clearing hotline | https://www.qmul.ac.uk/clearing/ |
